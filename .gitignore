@@ -1,0 +1,4 @@
+.project
+.settings
+/results/*.html
+/tmp/*.js
